@@ -9,9 +9,6 @@
       <button class="btn">ORDER NOW</button>
     </div>
   </div>
-  <div class="test">
-    <img src="../assets/img/round.svg" alt="round"/>
-  </div>
 </template>
 
 <script>
@@ -21,6 +18,7 @@ export default {
 <style lang="scss" scoped>
 @import "@/assets/main.scss";
 .hero{
+  z-index: 3;
   padding-top: 70px;
   position: relative;
   background: url(../assets/img/Hero.jpg) center/cover no-repeat;

@@ -24,3 +24,11 @@ button {
   font-family: "Montserrat", sans-serif;
   cursor: pointer;
 }
+
+@mixin rounded($size,$radius:0){
+  width: $size;
+  height: $size;
+  @if $radius!=0 {
+    border-radius: $radius;
+  }
+}
