@@ -1,0 +1,26 @@
+$primary-blue: #17114e;
+$primary-yellow: #ffd17e;
+$text-color-white: #fff;
+*{
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+
+button {
+  width: 300px;
+  height: 65px;
+  background-color: $primary-blue;
+  color: $text-color-white;
+  border: 0;
+  border-radius: 60px;
+  font-size:25px;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+}
