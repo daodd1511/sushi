@@ -9,7 +9,7 @@
   <!-- Decorator -->
   <img src="../assets/img/round.svg" alt="round" class="round1">
   <img src="../assets/img/round.svg" alt="round" class="round2">
-  <img src="../assets/img/dot.svg" alt="dott" class="dot1">
+  <img src="../assets/img/dot.svg" alt="dot" class="dot1">
   <img src="../assets/img/verticaldot.svg" alt="dott" class="dot2">
   <img src="../assets/img/wavy.svg" alt="wavy" class="wavy">
   </section>
