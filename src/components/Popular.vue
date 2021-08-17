@@ -39,6 +39,7 @@
 <style lang="scss" scoped>
 @import "@/assets/main.scss";
 .popular{
+  overflow: hidden;
   z-index: 2;
   position:relative;
   height: 750px;
