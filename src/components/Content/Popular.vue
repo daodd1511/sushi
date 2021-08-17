@@ -6,27 +6,27 @@
     </div>
     <div class="popular-items">
       <div class="popular-item">
-        <img src="../assets/img/sushi1-copy.jpg" alt="sushi1" class="sushi-img">
+        <img src="@/assets/img/sushi1-copy.jpg" alt="sushi1" class="sushi-img">
         <h2>Title</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
       </div>
       <div class="popular-item">
-        <img src="../assets/img/sushi2-copy.jpg" alt="sushi2" class="sushi-img">
+        <img src="@/assets/img/sushi2-copy.jpg" alt="sushi2" class="sushi-img">
         <h2>Title</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
       </div>
       <div class="popular-item">
-        <img src="../assets/img/sushi3-copy.jpg" alt="sushi3" class="sushi-img">
+        <img src="@/assets/img/sushi3-copy.jpg" alt="sushi3" class="sushi-img">
         <h2>Title</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
       </div>
     </div>
-    <img src="../assets/img/yellowdot.svg" alt="dot" class="dot1">
-    <img src="../assets/img/yellowdot2.svg" alt="dot" class="dot2">
-    <img src="../assets/img/yellowround.svg" alt="round" class="round1">
-    <img src="../assets/img/yellowround.svg" alt="round" class="round2">
-    <img src="../assets/img/yellowwavy.svg" alt="wavy" class="wavy1">
-    <img src="../assets/img/yellowwavy.svg" alt="wavy" class="wavy2">
+    <img src="@/assets/img/yellowdot.svg" alt="dot" class="dot1">
+    <img src="@/assets/img/yellowdot2.svg" alt="dot" class="dot2">
+    <img src="@/assets/img/yellowround.svg" alt="round" class="round1">
+    <img src="@/assets/img/yellowround.svg" alt="round" class="round2">
+    <img src="@/assets/img/yellowwavy.svg" alt="wavy" class="wavy1">
+    <img src="@/assets/img/yellowwavy.svg" alt="wavy" class="wavy2">
   </section>
 </template>
 

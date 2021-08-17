@@ -17,12 +17,12 @@
       </div>
     </div>
     <!-- Decorator -->
-    <img src="../assets/img/yellowdot.svg" alt="dot" class="dot1">
-    <img src="../assets/img/yellowdot.svg" alt="dot" class="dot2">
-    <img src="../assets/img/yellowround.svg" alt="round" class="round1">
-    <img src="../assets/img/yellowround.svg" alt="round" class="round2">
-    <img src="../assets/img/yellowwavy.svg" alt="wavy" class="wavy1">
-    <img src="../assets/img/yellowwavy.svg" alt="wavy" class="wavy2">
+    <img src="@/assets/img/yellowdot.svg" alt="dot" class="dot1">
+    <img src="@/assets/img/yellowdot.svg" alt="dot" class="dot2">
+    <img src="@/assets/img/yellowround.svg" alt="round" class="round1">
+    <img src="@/assets/img/yellowround.svg" alt="round" class="round2">
+    <img src="@/assets/img/yellowwavy.svg" alt="wavy" class="wavy1">
+    <img src="@/assets/img/yellowwavy.svg" alt="wavy" class="wavy2">
   </section>
 </template>
 <script>

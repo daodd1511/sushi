@@ -1,6 +1,22 @@
 $primary-blue: #17114e;
 $primary-yellow: #ffd17e;
 $text-color-white: #fff;
+$text-placeholder-color: #9cafbb;
+.input::-webkit-input-placeholder {
+    font-family: "Montserrat", sans-serif;
+}
+
+.input:-ms-input-placeholder {
+    font-family: "Montserrat", sans-serif;
+}
+
+.input:-moz-placeholder {
+    font-family: "Montserrat", sans-serif;
+}
+
+.input::-moz-placeholder {
+    font-family: "Montserrat", sans-serif;
+}
 *{
   margin: 0;
   padding: 0;

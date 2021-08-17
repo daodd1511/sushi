@@ -1,17 +1,17 @@
 <template>
   <section class="sushi-container">
-    <img src="../assets/img/sushi1-copy.jpg" alt="sushi1" class="sushi-img">
+    <img src="@/assets/img/sushi1-copy.jpg" alt="sushi1" class="sushi-img">
     <div class="sushi-content">
       <h1 class="title">Title Here</h1>
       <p class="description">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus sequi tenetur eaque quod consequuntur optio.</p>
       <button class="btn">ORDER NOW</button>
     </div>
   <!-- Decorator -->
-  <img src="../assets/img/round.svg" alt="round" class="round1">
-  <img src="../assets/img/round.svg" alt="round" class="round2">
-  <img src="../assets/img/dot.svg" alt="dot" class="dot1">
-  <img src="../assets/img/verticaldot.svg" alt="dott" class="dot2">
-  <img src="../assets/img/wavy.svg" alt="wavy" class="wavy">
+  <img src="@/assets/img/round.svg" alt="round" class="round1">
+  <img src="@/assets/img/round.svg" alt="round" class="round2">
+  <img src="@/assets/img/dot.svg" alt="dot" class="dot1">
+  <img src="@/assets/img/verticaldot.svg" alt="dott" class="dot2">
+  <img src="@/assets/img/wavy.svg" alt="wavy" class="wavy">
   </section>
 </template>
 
