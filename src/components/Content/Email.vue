@@ -38,6 +38,7 @@
   text-align: center;
   color: $primary-blue;
   padding-top: 150px;
+  overflow:hidden;
   h1{
     font-size: 70px;
   }
