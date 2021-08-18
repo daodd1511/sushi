@@ -80,6 +80,7 @@
         @include rounded(45px,$radius: 50%);
         background-color: white;
         position: relative;
+        cursor: pointer;
         .instagram,.facebook,.twitter,.whatsapp{
           position: absolute;
           height: 60%;
