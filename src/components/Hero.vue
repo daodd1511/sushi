@@ -12,37 +12,36 @@
 </template>
 
 <script>
-export default { 
-}
+export default {};
 </script>
 <style lang="scss" scoped>
-@import "@/assets/main.scss";
-.hero{
+@import ".././assets/main.scss";
+.hero {
   z-index: 3;
   padding-top: 70px;
   position: relative;
   background: url(../assets/img/Hero.jpg) center/cover no-repeat;
-  .image{
+  .image {
     width: 100%;
   }
-  .hero-content{
+  .hero-content {
     color: #fff;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     align-content: flex-start;
     align-items: baseline;
-    padding: 180px 0px 70px 65px;
+    padding: 180px 0 70px 65px;
     gap: 40px;
-    .title{
-      font-size:100px;
+    .title {
+      font-size: 100px;
     }
-    .description{
-      font-size:25px;
+    .description {
+      font-size: 25px;
       max-width: 600px;
     }
   }
-  .test{
+  .test {
     height: 100px;
   }
 }
