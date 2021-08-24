@@ -1,28 +1,33 @@
-<section class="statistic">
-<h1 class="title">Statistics</h1>
-<p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque blanditiis dicta, deleniti ut iure quos?</p>
-<div class="statistic-details">
-  <div class="detail">
-    <h1>123</h1>
-    <p>STORE</p>
-  </div>
-  <div class="detail">
-    <h1>100</h1>
-    <p>MENU</p>
-  </div>
-  <div class="detail">
-    <h1>200</h1>
-    <p>CHEF</p>
-  </div>
-</div>
-<!-- Decorator -->
-<img src="@/assets/img/yellowdot.svg" alt="dot" class="dot1">
-<img src="@/assets/img/yellowdot.svg" alt="dot" class="dot2">
-<img src="@/assets/img/yellowround.svg" alt="round" class="round1">
-<img src="@/assets/img/yellowround.svg" alt="round" class="round2">
-<img src="@/assets/img/yellowwavy.svg" alt="wavy" class="wavy1">
-<img src="@/assets/img/yellowwavy.svg" alt="wavy" class="wavy2">
-</section>
+<template>
+  <section class="statistic">
+    <h1 class="title">Statistics</h1>
+    <p class="description">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque
+      blanditiis dicta, deleniti ut iure quos?
+    </p>
+    <div class="statistic-details">
+      <div class="detail">
+        <h1>123</h1>
+        <p>STORE</p>
+      </div>
+      <div class="detail">
+        <h1>100</h1>
+        <p>MENU</p>
+      </div>
+      <div class="detail">
+        <h1>200</h1>
+        <p>CHEF</p>
+      </div>
+    </div>
+    <!-- Decorator -->
+    <img src="@/assets/img/yellowdot.svg" alt="dot" class="dot1" />
+    <img src="@/assets/img/yellowdot.svg" alt="dot" class="dot2" />
+    <img src="@/assets/img/yellowround.svg" alt="round" class="round1" />
+    <img src="@/assets/img/yellowround.svg" alt="round" class="round2" />
+    <img src="@/assets/img/yellowwavy.svg" alt="wavy" class="wavy1" />
+    <img src="@/assets/img/yellowwavy.svg" alt="wavy" class="wavy2" />
+  </section>
+</template>
 <script>
 export default {};
 </script>
