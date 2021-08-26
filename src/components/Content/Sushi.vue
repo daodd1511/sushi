@@ -75,4 +75,12 @@ export default {};
     padding-left: 230px;
   }
 }
+@media only screen and (max-width: 1024px) {
+  .sushi-container {
+    gap: 30px;
+    .description {
+      max-width: 400px !important;
+    }
+  }
+}
 </style>

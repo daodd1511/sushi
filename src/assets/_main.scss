@@ -40,7 +40,12 @@ button {
   font-family: "Montserrat", sans-serif;
   cursor: pointer;
 }
-
+.hidden {
+  display: none;
+}
+.show {
+  display: block;
+}
 @mixin rounded($size,$radius:0){
   width: $size;
   height: $size;
