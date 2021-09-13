@@ -22,11 +22,15 @@
       />
     </div>
     <!-- Mobile Menu -->
-    <div class="menu">
+    <div
+      class="menu"
+      :class="{ active: showMobileMenu }"
+      @click="showMobileMenu = !showMobileMenu"
+    >
       <img src="../assets/img/menu-mobile.png" alt="Menu" class="menu-icon" />
     </div>
   </header>
-  <div class="navbar-mobile">
+  <div class="navbar-mobile" v-if="showMobileMenu">
     <a href="" class="navbar-item">Home</a>
     <a href="" class="navbar-item">Product</a>
     <a href="" class="navbar-item">Promo</a>
@@ -35,12 +39,13 @@
   </div>
 </template>
 <script>
-// export default {
-//   data() {
-//     return {
-//       isOpen: false,
-//     }
-//   },
+export default {
+  data() {
+    return {
+      showMobileMenu: false,
+    };
+  },
+};
 //   methods: {
 //     openMenu(isOpen){
 //       isOpen = !isOpen;
@@ -134,7 +139,6 @@
     }
   }
   .navbar-mobile {
-    display: block;
     position: fixed;
     margin-top: 70px;
     width: 100%;
