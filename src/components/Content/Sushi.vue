@@ -1,6 +1,10 @@
 <template>
   <section class="sushi-container">
-    <img src="@/assets/img/sushi1-copy.jpg" alt="sushi1" class="sushi-img" />
+    <img
+      src="https://i.ibb.co/r47qTnS/sushi1-copy.jpg"
+      alt="sushi1"
+      class="sushi-img"
+    />
     <div class="sushi-content">
       <h1 class="title">Title Here</h1>
       <p class="description">

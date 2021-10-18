@@ -2,7 +2,11 @@
   <header class="header">
     <!-- Logo -->
     <div class="logo">
-      <img src="../assets/img/white-logo.png" alt="logo" class="logo-img" />
+      <img
+        src="https://i.ibb.co/6F3S6zx/white-logo.png"
+        alt="logo"
+        class="logo-img"
+      />
       <span class="name">Youshi</span>
     </div>
     <!-- Navigation bar -->
@@ -16,7 +20,7 @@
     <!-- Search button -->
     <div class="search">
       <img
-        src="../assets/img/search-icon.png"
+        src="https://i.ibb.co/Gnc5s1D/search-icon.png"
         alt="Search"
         class="search-icon"
       />
@@ -27,7 +31,11 @@
       :class="{ active: showMobileMenu }"
       @click="showMobileMenu = !showMobileMenu"
     >
-      <img src="../assets/img/menu-mobile.png" alt="Menu" class="menu-icon" />
+      <img
+        src="https://i.ibb.co/f4ZytNf/menu-mobile.png"
+        alt="Menu"
+        class="menu-icon"
+      />
     </div>
   </header>
   <div class="navbar-mobile" v-if="showMobileMenu">

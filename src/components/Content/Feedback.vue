@@ -2,7 +2,11 @@
   <section class="feedback">
     <div class="background-layer">
       <div class="content">
-        <img src="@/assets/img/person2.jpg" alt="person" class="person-img" />
+        <img
+          src="https://i.ibb.co/QjBp8DS/person2.jpg"
+          alt="person"
+          class="person-img"
+        />
         <p>
           If you are a culinary fan, if you like to spend time in your kitchen,
           you likely find yourself looking for reliable resources through which
@@ -22,7 +26,7 @@ export default {};
 @import "../../assets/main.scss";
 .feedback {
   height: 750px;
-  background: url(../../assets/img/sushi3.jpg) center/cover no-repeat;
+  background: url("https://i.ibb.co/gDvn7cY/sushi3.jpg") center/cover no-repeat;
   color: $text-color-white;
   .background-layer {
     width: 100%;

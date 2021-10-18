@@ -10,7 +10,7 @@
     <div class="popular-items">
       <div class="popular-item">
         <img
-          src="@/assets/img/sushi1-copy.jpg"
+          src="https://i.ibb.co/r47qTnS/sushi1-copy.jpg"
           alt="sushi1"
           class="sushi-img"
         />
@@ -19,7 +19,7 @@
       </div>
       <div class="popular-item">
         <img
-          src="@/assets/img/sushi2-copy.jpg"
+          src="https://i.ibb.co/SwPcMbC/sushi2-copy.jpg"
           alt="sushi2"
           class="sushi-img"
         />
@@ -28,7 +28,7 @@
       </div>
       <div class="popular-item">
         <img
-          src="@/assets/img/sushi3-copy.jpg"
+          src="https://i.ibb.co/T2cqt9h/sushi3-copy.jpg"
           alt="sushi3"
           class="sushi-img"
         />

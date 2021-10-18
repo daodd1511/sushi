@@ -10,24 +10,28 @@
       <div class="social-icons">
         <div class="icon">
           <img
-            src="@/assets/img/instagram.png"
+            src="https://i.ibb.co/mvLL6zJ/instagram.png"
             alt="instagram"
             class="instagram"
           />
         </div>
         <div class="icon">
           <img
-            src="@/assets/img/facebook.png"
+            src="https://i.ibb.co/kMWGCZB/facebook.png"
             alt="facebook"
             class="facebook"
           />
         </div>
         <div class="icon">
-          <img src="@/assets/img/twitter.png" alt="twitter" class="twitter" />
+          <img
+            src="https://i.ibb.co/PxxTwpH/twitter.png"
+            alt="twitter"
+            class="twitter"
+          />
         </div>
         <div class="icon">
           <img
-            src="@/assets/img/whatsapp.png"
+            src="https://i.ibb.co/WxLgJGp/whatsapp.png"
             alt="whatsapp"
             class="whatsapp"
           />
